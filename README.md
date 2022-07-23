@@ -2,7 +2,7 @@ Hi! I'm Filip. My programs and projects are mostly in Python. Those are some pro
 
  - Python
  - Unity C# (or GameMaker)
- - HTML + PHP
+ - HTML + PHP (by the way I hate doing frontend)
  - Powershell, cmd and bash scripts
 etc.
 
