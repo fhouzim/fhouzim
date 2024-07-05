@@ -1,13 +1,6 @@
-Hi! I'm Filip. My programs and projects are mostly in Python. Those are some programming languages I use:
+Hi! My name's Filip and I'm a young developer from Czechia.
 
- - Python
- - Unity C# (or GameMaker)
- - HTML + PHP (backend)
- - Powershell, cmd and bash scripts
-etc.
+I mostly specialize in making native android apps with kotlin in Jetpack Compose and I'm learning flutter. I also made a lot of python apps in the past, but those were mostly for personal use like Discord bots. I have a lot of unfinished private projects as I don't finish much in one go if it's not something I really need :D. 
 
-My projects are mainly for Windows, but in the future, I will make versions for linux, too. I speak fluent Czech and English, 
-so if any of these is your native language, feel free to use them when communicating with me! I also have a lot of unfinished work.
-E: filip.houzim@seznam.cz
+I'm fluent in Czech and English, so feel free to use those when communicating with me. You can contact me on my email `imkei.py@mail.com` or `fhouzim@gmail.com` (less frequently used)
 
-On other developer platforms you can find me under the name "tencmnt_" or "FilipDevStudios". I hope you enjoy my projects!
